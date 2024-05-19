@@ -1,1 +1,0 @@
-# Bootstrap-et-mod-le-de-r-gression
